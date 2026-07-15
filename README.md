@@ -12,6 +12,8 @@ To run it:
 
 1: Go to terminal and write "pip install requests"
 
-2: run "python weather.py"
+2: cd (location of file)
 
-3: Enter the name of a city
+3: run "python weather.py"
+
+4: Enter the name of a city
