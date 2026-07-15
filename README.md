@@ -4,9 +4,12 @@ Fetches the current weather, wind speed and weather code for any city, uses Open
 
 How it works:
 
-Enter a city name, The python script find the coordinates of the city and it fetches the current weather, wind speed and weather code for the city.
+1:enter a city name 
+
+2:The python script find the coordinates of the city and it fetches the current weather, wind speed and weather code for the city.
 
 To run it:
 
-Go to terminal and write "pip install requests"
-run "python weather.py"
+1:Go to terminal and write "pip install requests"
+
+2:run "python weather.py"
