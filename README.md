@@ -13,3 +13,5 @@ To run it:
 1: Go to terminal and write "pip install requests"
 
 2: run "python weather.py"
+
+3: Enter the name of a city
